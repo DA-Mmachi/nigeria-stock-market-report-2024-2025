@@ -8,6 +8,7 @@ This project presents a professional market research report analyzing the Nigeri
 **Focus Areas:** Sector trends, macroeconomic context, investor sentiment, risk & opportunity analysis
 
 ---
+### View Report Document here [Click to View](https://docs.google.com/document/d/1kyciJxqWvJL2JP9CP8AaYXLzIDQWVkRZ/edit?usp=drive_link&ouid=115255861688124332700&rtpof=true&sd=true)
 
 ## Steps I took to create this report
 
