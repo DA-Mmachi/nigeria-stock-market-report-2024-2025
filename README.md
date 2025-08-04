@@ -1,4 +1,4 @@
-# Nigeria Stock Market Report (2024 – June2025)
+# Nigeria Stock Market Report (2024 – June 2025)
 
 ## Project Overview
 
@@ -9,7 +9,7 @@ This project presents a professional market research report analyzing the Nigeri
 
 ---
 
-## Steps I Took to Create This Report
+## Steps I took to create this report
 
 ### 1. Data Collection
 - Gathered monthly stock market and sector performance data for 2024–2025
@@ -45,25 +45,25 @@ This project presents a professional market research report analyzing the Nigeri
 
 ## Key Visuals
 
-##### - Stock Market Overview
+### Stock Market Overview
 
   <img width="1152" height="577" alt="image" src="https://github.com/user-attachments/assets/fea6b10a-1661-41ce-a1c5-4cc268ab7422" />
 
-##### - Sector Performance Comparison table
+### Sector Performance Comparison table
 
   <img width="1132" height="786" alt="image" src="https://github.com/user-attachments/assets/26bc70b1-7d32-4ccd-b94a-0af7d01c2c4b" />
 
 
-##### - Sector Performance Comparison table
+### Sector Performance Comparison table
 
   <img width="1132" height="699" alt="image" src="https://github.com/user-attachments/assets/395253d6-33c8-4de9-b12f-302798b3c7a2" />
 
-##### - Top Performing Stocks
+### Top Performing Stocks
 
 <img width="1044" height="471" alt="image" src="https://github.com/user-attachments/assets/4feee679-d8f5-4ab0-829e-12029067cca8" />
 
 
-##### - least Performing Stocks
+### least Performing Stocks
 
 
 <img width="1119" height="836" alt="image" src="https://github.com/user-attachments/assets/e9ab282a-0194-4b57-ae22-128a82551f07" />
@@ -79,17 +79,24 @@ This project presents a professional market research report analyzing the Nigeri
 ### 2024 Growth-Driven Stock Market Rally
 
  In 2024, the Nigerian stock market saw strong gains across growth-oriented sectors:
-•	Communication Services (+39.7%) and Information Technology (+37.6%) led the market, driven by investor appetite for high-growth assets and sector expansion.
-•	Consumer Discretionary (+29.5%) and Financials (+28.9%) also performed strongly, reflecting robust consumer spending and solid banking sector fundamentals.
-•	The broad-based growth in 2024 was likely supported by improved earnings, positive investor sentiment, and favorable liquidity conditions.
+
+- Communication Services (+39.7%) and Information Technology (+37.6%) led the market, driven by investor appetite for high-growth assets and sector expansion.
+
+- Consumer Discretionary (+29.5%) and Financials (+28.9%) also performed strongly, reflecting robust consumer spending and solid banking sector fundamentals.
+
+- The broad-based growth in 2024 was likely supported by improved earnings, positive investor sentiment, and favorable liquidity conditions.
 
 ### 2025 Sector Rotation and Market Correction
 
 In contrast, 2025 trailing six-month performance indicates a notable sector rotation:
-•	Communication Services slowed to +7.3%, while Information Technology and Consumer Discretionary recorded negative performances (-0.4% and -3.7% respectively).
-•	Financials and Industrials posted minimal gains, suggesting reduced market enthusiasm compared to the previous year.
-•	Defensive sectors such as Consumer Staples (+3.1%) and Utilities (+0.4%) gained modestly, indicating a shift in investor preference toward safer, more stable stocks.
-•	Energy (-13.0%), Health Care (-9.1%), Materials (-7.5%), and Real Estate (-5.5%) experienced significant declines, signaling pressure on cyclical and resource-dependent sectors.
+
+- Communication Services slowed to +7.3%, while Information Technology and Consumer Discretionary recorded negative performances (-0.4% and -3.7% respectively).
+
+- Financials and Industrials posted minimal gains, suggesting reduced market enthusiasm compared to the previous year.
+
+- Defensive sectors such as Consumer Staples (+3.1%) and Utilities (+0.4%) gained modestly, indicating a shift in investor preference toward safer, more stable stocks.
+
+- Energy (-13.0%), Health Care (-9.1%), Materials (-7.5%), and Real Estate (-5.5%) experienced significant declines, signaling pressure on cyclical and resource-dependent sectors.
 
 
 ---
@@ -102,12 +109,16 @@ In contrast, 2025 trailing six-month performance indicates a notable sector rota
 
 ---
 
-## 💼 Author
+## Author
 
 **Mmachi Goodness Paul-Emeka**  
 Data Analyst | Economic Researcher  
 Nigeria  
-[mmachipaulemeka@gmail.com](mmachipaulemeka@gmail.com)
-[Mmachi Goodness Paul - Emeka](https://www.linkedin.com/in/mmachi-goodness-paul-emeka) | [Portfolio](https://bit.ly/MmachiPortfolio)
+
+Emai: [mmachipaulemeka@gmail.com](mmachipaulemeka@gmail.com)
+
+LinkedIn: [Mmachi Goodness Paul - Emeka](https://www.linkedin.com/in/mmachi-goodness-paul-emeka) 
+
+My Portfolio: [Portfolio](https://bit.ly/MmachiPortfolio)
 
 ---
